@@ -697,6 +697,17 @@ Awesome, nor vice versa. **Please do not use brand logos for any purpose except
 to represent the company, product, or service to which they refer.**
 
 
+@angular/material/dialog
+
+@angular/forms
+MIT
+
+@angular/material/datepicker
+
+@angular/material/tooltip
+
+@angular/material/snack-bar
+
 resize-observer-polyfill
 MIT
 The MIT License (MIT)
@@ -768,17 +779,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-@angular/material/dialog
-
-@angular/forms
-MIT
-
-@angular/material/datepicker
-
-@angular/material/tooltip
-
-@angular/material/snack-bar
 
 zone.js
 MIT
