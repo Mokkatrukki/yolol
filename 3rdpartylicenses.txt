@@ -697,6 +697,8 @@ to represent the company, product, or service to which they refer.**
 @fortawesome/angular-fontawesome
 MIT
 
+@angular/material/menu
+
 @angular/material/dialog
 
 @angular/forms
